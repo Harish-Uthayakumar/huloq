@@ -23,7 +23,7 @@
 // 	}).then((result) => {
 // 		if (result.value) {
 // 			location.replace(
-// 				"http://api.whatsapp.com/send?phone=917709090319&text=Hey, I was just checking out the following product " +
+// 				"http://api.whatsapp.com/send?phone=&text=Hey, I was just checking out the following product " +
 // 					window.location.href +
 // 					"%0a%0aCan you please send my gift?%0a%0aThis request was generated using WhatsApp tool by Huloq"
 // 			);
